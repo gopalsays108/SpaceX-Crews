@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpaceX Crews</string>
+    <string name="agency">Agency</string>
+    <string name="active">active</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete_all">Delete All</string>
+</resources>
